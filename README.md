@@ -6,3 +6,6 @@ This repo consists of 2 visualization projects. One is for the World happiness d
 - Happiness data visualization is created using Pandas, Numpy, seaborn and Matplotlib.
 
 HTML files in the respective folders gives the best view of the DV.
+
+Link 1:  https://www.pnikhil.com/viz/happiness.html
+Link 2: https://www.pnikhil.com/viz/movie.html
